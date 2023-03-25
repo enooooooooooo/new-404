@@ -9,9 +9,6 @@
 }
 #section img{
   transform: translate(321.5%,60%);
-    const sharp = require('sharp');
-    const fs = require('fs');
-    const directory = './images';
 
 }
 #section h2{ 
