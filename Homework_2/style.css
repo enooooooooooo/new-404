@@ -8,8 +8,7 @@
   transform: translate(58.8%,150%);
 }
 #section img{
-  width: 145px;
-  height: 33px;
+    transform:transrate(50%,100%);
 
 }
 #section h2{ 
