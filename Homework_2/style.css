@@ -4,11 +4,12 @@
 }
 
 #section h1{
-  font-size: 25px;
+  font-size: 19px;
   transform: translate(58.8%,150%);
 }
 #section img{
-  transform: translate(321.5%,60%);
+  width: 145px;
+    height: 33px;
 
 }
 #section h2{ 
