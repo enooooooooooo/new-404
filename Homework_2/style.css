@@ -140,3 +140,8 @@ ul.panelInner {
 .sidepanel #drawerClose:hover > span {
     color: #ddd;
 }
+
+.navrr_jpg{
+  width: 145px;
+  height: 33px;
+}
